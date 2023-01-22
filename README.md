@@ -1,2 +1,1 @@
-# api
-amawada.de API
+# API
